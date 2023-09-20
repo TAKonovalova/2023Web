@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Паспорт</title>
+    <style type ="text/css">
+           body {
+    background-image: url("shablon.jpg");
+    background-position: center-bottom;
+    background-repeat: no-repeat;
+   }
+
+        </style>
+</head>
+<body>
+  
+    <h3 style ="margin-left: 57px;
+    margin-top: 30px;
+    font: bold serif;">&nbsp;Р&nbsp;о&nbsp;с&nbsp;с&nbsp;и&nbsp;й&nbsp;с&nbsp;к&nbsp;а&nbsp;я&nbsp; &nbsp;&nbsp;Ф&nbsp;е&nbsp;д&nbsp;е&nbsp;р&nbsp;а&nbsp;ц&nbsp;и&nbsp;я</h3>
+    <p style ="margin-left: 30px;
+    margin-top: 20px;">Паспорт выдан <span>&nbsp;&nbsp;&nbsp;Oтделением</span> </p>
+    <p style ="margin-left: 30px;
+    margin-top: 45px;">Дата выдачи <span>18.06.2012</span></p>
+    <p style ="margin-left: 140px;
+    margin-top: 190px;">Фамилия&nbsp;&nbsp; <span>Коновалова</span> </p>
+    <p style ="margin-left: 140px;
+    margin-top: 20px;">Имя &nbsp;&nbsp; <span>Татьяна</span> </p>
+    <p  style ="margin-left: 140px;
+    margin-top: 5px;">Год рождения <span>2004</span> </p>
+
+   	
+
+</body>
+</html>
