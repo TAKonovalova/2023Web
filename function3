@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+    <meta charset="UTF-8">
+    <title>Паспорт</title>
+   
+        </style>
+</head>
+<body>
+    <h3 style ="margin-left: 57px;
+    margin-top: 30px;
+    font: bold serif;">РОССИЙСКАЯ ФЕДЕРАЦИЯ</h3>
+    <p >Паспорт выдан <span>Oтделением</span> </p>
+    <p id = "data">Дата выдачи <span>18.06.2012</span></p>
+    <p id = "second">Фамилия <span>Коновалова</span> </p>
+    <p id = "first">Имя  <span>Татьяна</span> </p>
+    <p id ="birth">Год рождения <span>2004</span> </p>
+   	
+
+</body>
+<script src="./function.js"></script>
+</html>
