@@ -1,3 +1,3 @@
 # 2023Web
 
-https://github.com/TAKonovalova.io/2023Web/Index.html
+https://takonovalova.github.io/2023Web/Index.html
