@@ -52,25 +52,25 @@
     "id": "7",
     "title": "Товар 7",
     "vendor_code": "777",
-    "description": "Описание 7",
-    "price": 700,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+    "description": "Джемпер (х/б)",
+    "price": 3617,
+    "img": "https://bookshop.hse.ru/data/2023/08/14/2068078694/%D0%B4%D0%B6%D0%B5%D0%BC%D0%BF%D0%B5%D1%80_3617.jpeg.(250x263x123).jpeg"
   },
   {
     "id": "8",
     "title": "Товар 8",
     "vendor_code": "888",
-    "description": "Описание 8",
-    "price": 800,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_3.png"
+    "description": "Джемпер женский (long-sleeve)",
+    "price": 1806,
+    "img": "https://bookshop.hse.ru/data/2023/08/14/2068078715/%D0%B4%D0%B6%D0%B5%D0%BC%D0%BF%D0%B5%D1%80_1806.jpeg.(196x263x123).jpeg"
   },
   {
     "id": "9",
     "title": "Товар 9",
     "vendor_code": "999",
-    "description": "Описание 9",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+    "description": "Футболка Премиум Oversize (хлопок)",
+    "price": 1091,
+    "img": "https://bookshop.hse.ru/data/2023/07/05/2076261628/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20Oversize.jpg.(250x262x123).jpg"
   }
   ,
   {
